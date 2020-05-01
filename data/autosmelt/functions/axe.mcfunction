@@ -1,0 +1,1 @@
+give @p diamond_axe{name:"smelt",display:{Lore:["[{\"text\":\"Autosmelt\",\"italic\":false,\"color\":\"yellow\"}]"]}} 1
